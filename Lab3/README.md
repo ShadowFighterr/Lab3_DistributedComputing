@@ -1,4 +1,3 @@
-````markdown
 # Lab 3 — Raft Lite (Distributed Computing)
 
 This project implements a simplified **Raft (Raft Lite)** consensus protocol to demonstrate leader election, heartbeats, log replication, majority-based commit, and failure handling, as required by the lab criteria.
@@ -20,7 +19,6 @@ This project implements a simplified **Raft (Raft Lite)** consensus protocol to 
 - Python packages:
   ```bash
   pip install flask requests
-````
 
 ---
 
